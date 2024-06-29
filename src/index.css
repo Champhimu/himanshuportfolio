@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+body {
+  background-color: #282c34;
+  margin: 0;
+  font-size: calc(8px + 0.6vw);
+  font-family: "JetBrains Mono", monospace, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jetbrains-mono-class1 {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.q2cg_q-wrapper.q1wb_q-page .q2fr_q-photo-img-border .q2fr_q-photo-img {
+  background: url(./Images/Himanshu_Image.jpeg) no-repeat !important;
+  background-size: 100% 100% !important;
+}
+
+/* @font-face {
+  font-family: "Euclid Circular B";
+  src: url(./Images/EuclidCircularB-Regular-WebM.woff2) format("ttf"),url(./Images/EuclidCircularB-Regular-WebM.woff2) format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: "Euclid Circular B";
+  src: url(./Images/EuclidCircularB-Bold-WebM.woff2) format("ttf"),url(./Images/EuclidCircularB-Bold-WebM.woff2) format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap
+} */
+
+/* @font-face {
+  font-family: "Euclid Circular B";
+  src: url(/nvlib/font/EuclidCircularB-RegularItalic-WebM.ttf) format("ttf"),url(/nvlib/font/EuclidCircularB-RegularItalic-WebM.woff2) format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap
+}
+
+
+@font-face {
+  font-family: "Euclid Circular B";
+  src: url(/nvlib/font/EuclidCircularB-BoldItalic-WebM.ttf) format("ttf"),url(/nvlib/font/EuclidCircularB-BoldItalic-WebM.woff2) format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap
+} */

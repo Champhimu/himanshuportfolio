@@ -1,0 +1,22 @@
+
+.App-header {
+  min-height: 100vh;
+  color: white;
+}
+
+ul{
+  display: flex;
+  list-style-type: none;
+}
+
+li{
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.active{
+  border-bottom: 2px solid yellow;
+  color: yellow;
+}
